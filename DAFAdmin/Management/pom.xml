@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>com.fr.atgext</groupId>
-  <artifactId>ATG11Extensions.DafAdmin</artifactId>
+  <artifactId>ATG11Extensions.DafAdmin.Management</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
  
@@ -11,7 +11,8 @@
   <url>http://www.re-enter.fr</url>
   
   <modules>
-    <module>security</module>
-    <module>Management</module>
+    <module>bcc</module>
+    <module>core</module>
+    <module>commerce</module>
   </modules>
 </project>
